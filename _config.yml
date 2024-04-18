@@ -315,7 +315,7 @@ exclude:
   - Gemfile.lock
 include:
   - .well-known
-  -ii LICENSE.md
+  - LICENSE.md
 
 
 # Plugins
