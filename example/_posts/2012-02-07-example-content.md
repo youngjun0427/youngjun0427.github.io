@@ -2,11 +2,10 @@
 layout: post
 title: Example Content
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  
 sitemap: false
 hide_last_modified: true
 ---
-
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
@@ -27,18 +26,23 @@ HTML defines a long list of available inline tags, a complete list of which can 
 Most of these elements are styled by browsers with few modifications on our part.
 
 ## Heading 2
+
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
 ### Heading 3
+
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
 
 #### Heading 4
+
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
 
 ##### Heading 5
+
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
 
 ###### Heading 6
+
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
 
 ## Code
@@ -98,13 +102,14 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-| Name     | Upvotes   | Downvotes |
-|:---------|:----------|:----------|
-| Alice    |        10 |        11 |
-| Bob      |         4 |         3 |
-| Charlie  |         7 |         9 |
-|==========|===========|===========|
-|Totals    |        21 |        23 |
+
+| Name       | Upvotes     | Downvotes   |
+| :----------- | :------------ | :------------ |
+| Alice      | 10          | 11          |
+| Bob        | 4           | 3           |
+| Charlie    | 7           | 9           |
+| ========== | =========== | =========== |
+| Totals     | 21          | 23          |
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
